@@ -12,6 +12,7 @@
 		3E8B99BD1CB82B1F007EA0CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E8B99BB1CB82B1F007EA0CC /* Main.storyboard */; };
 		3E8B99BF1CB82B1F007EA0CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E8B99BE1CB82B1F007EA0CC /* Assets.xcassets */; };
 		3E8B99C21CB82B1F007EA0CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E8B99C01CB82B1F007EA0CC /* LaunchScreen.storyboard */; };
+		3E8B99CA1CB82B36007EA0CC /* Voronoi.cikernel in Resources */ = {isa = PBXBuildFile; fileRef = 3E8B99C91CB82B36007EA0CC /* Voronoi.cikernel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3E8B99BE1CB82B1F007EA0CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3E8B99C11CB82B1F007EA0CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3E8B99C31CB82B1F007EA0CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3E8B99C91CB82B36007EA0CC /* Voronoi.cikernel */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Voronoi.cikernel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				3E8B99BE1CB82B1F007EA0CC /* Assets.xcassets */,
 				3E8B99C01CB82B1F007EA0CC /* LaunchScreen.storyboard */,
 				3E8B99C31CB82B1F007EA0CC /* Info.plist */,
+				3E8B99C91CB82B36007EA0CC /* Voronoi.cikernel */,
 			);
 			path = CoreImageVoronoi;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 				3E8B99C21CB82B1F007EA0CC /* LaunchScreen.storyboard in Resources */,
 				3E8B99BF1CB82B1F007EA0CC /* Assets.xcassets in Resources */,
 				3E8B99BD1CB82B1F007EA0CC /* Main.storyboard in Resources */,
+				3E8B99CA1CB82B36007EA0CC /* Voronoi.cikernel in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
